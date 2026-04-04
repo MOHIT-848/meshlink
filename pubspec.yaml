@@ -1,0 +1,14 @@
+name: mesh_link
+description: MeshLink App
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  nearby_connections: ^4.3.0
+  geolocator: ^13.0.1
+  vibration: ^2.1.0
+  permission_handler: ^11.3.1
